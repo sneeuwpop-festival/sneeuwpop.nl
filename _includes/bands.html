@@ -1,0 +1,15 @@
+<div class="container-fluid">
+  <div class="row bands">
+    {% for band in site.data.bands %}
+    <div class="col-md-4">
+      <div class="band">
+        <div class="description">
+          <div class="time">{{ band.start }} - {{ band.end}}</div>
+          <div class="name">{{ band.name | upcase }}</div>
+        </div>
+        <img src="/assets/images/bands/{{ band.image }}">
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
