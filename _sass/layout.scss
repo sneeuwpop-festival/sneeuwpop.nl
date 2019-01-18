@@ -1,10 +1,11 @@
 @import "colors.scss";
 
 body {
-  background-color: $black;
-  background-image: url("/assets/images/background.jpg");
-  background-size: cover;
-  color: $white;
+  @font-face {
+    font-family: VistaSanBol;
+    src: url(/assets/VistaSanBol.ttf);
+  }
+  font-family: VistaSanBol;
 }
 
 hr {
@@ -15,33 +16,52 @@ hr {
 }
 
 .header {
-  $logo-height: 200px;
-  $logo-margin-top: 30px;
-  $logo-margin-bottom: 60px;
-  $bar-height: 140px;
-  position: relative;
-  .logo {
-    position: absolute;
+  .logo-container {
     text-align: center;
     width: 100%;
-    img {
-      margin-top: $logo-margin-top;
-      height: $logo-height;
+    .logo {
+      img {
+        margin-top: 30px;
+        height: 200px;
+        margin-bottom: 30px;
+      }
+      .title-container {
+        .title {
+          font-size: 60px;
+          font-weight: 600;
+        }
+        .subtitle {
+          font-size: 48px;
+          color: $primary;
+        }
+      }
     }
-    .title {
-      display: inline-block;
-      font-size: 60px;
-      font-weight: 600;
-      vertical-align: middle;
-    }
   }
-  .logo-bar {
-    height: $bar-height;
-    // background-color: $primary;
-  }
-  .logo-spacer {
-    height: $logo-height + $logo-margin-top + $logo-margin-bottom - $bar-height;
-  }
+}
+
+ @media screen and (min-width: 750px) {
+   .header {
+     position: relative;
+     .logo-container {
+       position: absolute;
+       .logo {
+         width: 750px;
+         border-bottom-left-radius: 30px;
+         border-bottom-right-radius: 30px;
+         margin: auto;
+         background-color: $white;
+         .title-container {
+           display: inline-block;
+           vertical-align: middle;
+           margin-left: 20px;
+         }
+       }
+     }
+   }
+ }
+
+.groepsfoto {
+  width: 100%;
 }
 
 .bands {

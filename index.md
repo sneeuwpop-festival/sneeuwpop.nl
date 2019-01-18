@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include bands.html %}
+{% include group.html %}
 
 ---
 
