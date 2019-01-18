@@ -9,3 +9,7 @@ layout: default
 {% include sponsors.html %}
 
 ---
+
+{% include location.html %}
+
+---
