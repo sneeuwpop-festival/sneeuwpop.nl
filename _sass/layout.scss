@@ -2,6 +2,8 @@
 
 body {
   background-color: $black;
+  background-image: url("/assets/images/background.jpg");
+  background-size: cover;
   color: $white;
 }
 
@@ -15,7 +17,7 @@ hr {
 .header {
   $logo-height: 200px;
   $logo-margin-top: 30px;
-  $logo-margin-bottom: 30px;
+  $logo-margin-bottom: 60px;
   $bar-height: 140px;
   position: relative;
   .logo {
@@ -35,7 +37,7 @@ hr {
   }
   .logo-bar {
     height: $bar-height;
-    background-color: $primary;
+    // background-color: $primary;
   }
   .logo-spacer {
     height: $logo-height + $logo-margin-top + $logo-margin-bottom - $bar-height;
