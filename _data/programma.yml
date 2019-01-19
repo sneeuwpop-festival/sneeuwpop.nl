@@ -1,0 +1,24 @@
+- name: Piccolo ma Potente
+  start: "13:30"
+  end: "14:00"
+- name: Thom
+  start: "14:20"
+  end: "14:50"
+- name: Spint
+  start: "15:10"
+  end: "15:40"
+- name: Baardvader
+  start: "16:10"
+  end: "16:40"
+- name: Ten ton John
+  start: "17:00"
+  end: "17:30"
+- name: Stevie Ray
+  start: "17:50"
+  end: "18:20"
+- name: Doggybag
+  start: "18:40"
+  end: "19:10"
+- name: Tate Gallery
+  start: "19:30"
+  end: "20:00"

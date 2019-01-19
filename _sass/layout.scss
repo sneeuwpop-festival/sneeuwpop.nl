@@ -18,7 +18,7 @@ h2 {
 hr {
   margin: 75px  auto;
   border: 0;
-  border-top: 1px solid rgba($white, .07);
+  border-top: 1px solid rgba($black, .07);
   width: 50%;
 }
 
@@ -72,26 +72,19 @@ hr {
 }
 
 .bands {
-  .col-md-4 {
-    $band-padding: 0px;
-    padding: $band-padding;
-    .band {
-      // border: 1px solid #111111;
-      img {
-        width: 100%;
+  .band {
+    text-align: center;
+    margin-top: 20px;
+    img {
+      width: 100%;
+    }
+    .description {
+      .time {
+        font-size: 25px;
       }
-      .description {
-        $margin: 15px;
-        position: absolute;
-        bottom: $band-padding + $margin;
-        left: $band-padding + $margin;
-        .time {
-          font-size: 25px;
-        }
-        .name {
-          font-size: 40px;
-          font-weight: 600;
-        }
+      .name {
+        font-size: 40px;
+        font-weight: 600;
       }
     }
   }

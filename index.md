@@ -10,6 +10,10 @@ layout: default
 
 ---
 
+{% include programma.html %}
+
+---
+
 {% include location.html %}
 
 ---
