@@ -93,24 +93,33 @@ hr {
 .sponsors {
   .sponsor {
     margin: auto;
-    height: 200px;
     overflow: hidden;
     white-space: nowrap;
     padding: 15%;
     transition: padding 0.3s;
 
-    .helper {
-      display: inline-block;
-      height: 100%;
-      vertical-align: middle;
-    }
     img {
-      vertical-align: middle;
       width: 100%;
     }
   }
   .sponsor:hover {
     padding: 5%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .sponsors {
+    .sponsor {
+      height: 200px;
+      .helper {
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+      }
+      img {
+        vertical-align: middle;
+      }
+    }
   }
 }
 
