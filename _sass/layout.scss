@@ -93,11 +93,11 @@ hr {
 .sponsors {
   .sponsor {
     margin: auto;
-    $size: 200px;
-    width: $size;
-    height: $size;
+    height: 200px;
     overflow: hidden;
     white-space: nowrap;
+    padding: 15%;
+    transition: padding 0.3s;
 
     .helper {
       display: inline-block;
@@ -106,9 +106,11 @@ hr {
     }
     img {
       vertical-align: middle;
-      padding: 15%;
       width: 100%;
     }
+  }
+  .sponsor:hover {
+    padding: 5%;
   }
 }
 
