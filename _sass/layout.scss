@@ -46,26 +46,26 @@ hr {
   }
 }
 
- @media screen and (min-width: 750px) {
-   .header {
-     position: relative;
-     .logo-container {
-       position: absolute;
-       .logo {
-         width: 750px;
-         border-bottom-left-radius: 30px;
-         border-bottom-right-radius: 30px;
-         margin: auto;
-         background-color: $white;
-         .title-container {
-           display: inline-block;
-           vertical-align: middle;
-           margin-left: 20px;
-         }
+@media screen and (min-width: 750px) {
+ .header {
+   position: relative;
+   .logo-container {
+     position: absolute;
+     .logo {
+       width: 750px;
+       border-bottom-left-radius: 30px;
+       border-bottom-right-radius: 30px;
+       margin: auto;
+       background-color: $white;
+       .title-container {
+         display: inline-block;
+         vertical-align: middle;
+         margin-left: 20px;
        }
      }
    }
  }
+}
 
 .groepsfoto {
   width: 100%;
