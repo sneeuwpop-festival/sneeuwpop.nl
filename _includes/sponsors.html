@@ -9,7 +9,7 @@
           <a href="{{ sponsor.link }}" target="_blank">
             <div class="sponsor">
               <span class="helper"></span>
-              <img src="/assets/images/sponsors/{{ sponsor.img_name }}" />
+              <img src="{{ "/assets/images/sponsors/" | append: sponsor.img_name | relative_url }}"/>
             </div>
           </a>
         </div>
