@@ -2,15 +2,11 @@
 layout: default
 ---
 
-{% include group.html %}
+{% include programma.html %}
 
 ---
 
 {% include sponsors.html %}
-
----
-
-{% include programma.html %}
 
 ---
 

@@ -23,52 +23,15 @@ hr {
 }
 
 .header {
-  .logo-container {
-    text-align: center;
+  text-align: center;
+
+  .banner {
     width: 100%;
-    .logo {
-      img {
-        margin-top: 30px;
-        height: 200px;
-        margin-bottom: 30px;
-      }
-      .title-container {
-        .title {
-          font-size: 60px;
-          font-weight: 600;
-        }
-        .subtitle {
-          font-size: 48px;
-          color: $primary;
-        }
-      }
-    }
   }
-}
 
-@media screen and (min-width: 750px) {
- .header {
-   position: relative;
-   .logo-container {
-     position: absolute;
-     .logo {
-       width: 750px;
-       border-bottom-left-radius: 30px;
-       border-bottom-right-radius: 30px;
-       margin: auto;
-       background-color: $white;
-       .title-container {
-         display: inline-block;
-         vertical-align: middle;
-         margin-left: 20px;
-       }
-     }
-   }
- }
-}
-
-.groepsfoto {
-  width: 100%;
+  .logo {
+    max-width: 100%;
+  }
 }
 
 .bands {
