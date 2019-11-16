@@ -1,5 +1,6 @@
 <div class="container-fluid bands">
   <h2>{{ "Programma" | upcase }}</h2>
+  {% if site.data.programma.size > 0 %}
   <ul>
     {% for band in site.data.programma %}
     <li>
@@ -12,4 +13,9 @@
     </li>
     {% endfor %}
   </ul>
+  {% else %}
+  <div class="tba">
+    Het programma zal binnenkort bekend worden gemaakt!
+  </div>
+  {% endif %}
 </div>
