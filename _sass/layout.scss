@@ -1,18 +1,16 @@
 @import "colors.scss";
 
 body {
-  @font-face {
-    font-family: VistaSanBol;
-    src: url(/assets/VistaSanBol.ttf);
-  }
-  font-family: VistaSanBol;
+  font-family: "Roboto Thin", "DejaVu Sans";
 }
 
 h2 {
   text-align: center;
-  font-size: 40px;
+  font-size: 2.8em;
+  @media (min-width: 768px) {
+    font-size: 4em;
+  }
   font-weight: 600;
-  margin-bottom: 30px;
 }
 
 hr {
@@ -35,18 +33,31 @@ hr {
 }
 
 .bands {
-  .band {
-    text-align: center;
-    margin-top: 20px;
-    img {
+  ul {
+    @media(min-width: 768px) {
+      column-count: 2;
+      width: 50%;
+      margin: auto;
+    }
+    list-style: none;
+    li {
+      display: inline-block;
       width: 100%;
     }
+  }
+
+  h2 {
+    color: $primary;
+  }
+
+  .band {
+    text-align: center;
     .description {
       .time {
         font-size: 25px;
       }
       .name {
-        font-size: 40px;
+        font-size: 2em;
         font-weight: 600;
       }
     }

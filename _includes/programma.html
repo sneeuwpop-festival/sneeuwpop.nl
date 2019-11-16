@@ -1,16 +1,15 @@
-<div class="container-fluid">
-  <h2>Programma</h2>
-  <div class="row bands">
+<div class="container-fluid bands">
+  <h2>{{ "Programma" | upcase }}</h2>
+  <ul>
     {% for band in site.data.programma %}
-    <div class="col-md-12">
-      <div class="band">
-        <div class="description">
-          <div class="name">{{ band.name | upcase }}</div>
-          <div class="time">{{ band.start }} - {{ band.end}}</div>
-          <div class="stage">podium 1</div>
+    <li>
+        <div class="band mt-4">
+            <div class="description">
+                <div class="name">{{ band.name | upcase }}</div>
+                <div class="time">{{ band.start }} - {{ band.end}}</div>
+            </div>
         </div>
-      </div>
-    </div>
+    </li>
     {% endfor %}
-  </div>
+  </ul>
 </div>
