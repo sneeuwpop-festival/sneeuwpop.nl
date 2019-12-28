@@ -1,21 +1,28 @@
 - name: Square
   start: "14:00"
   end: "14:30"
+  uri: square
 - name: The Worst Example
   start: "14:50"
   end: "15:20"
+  uri: the-worst-example
 - name: Barefoot Six
   start: "15:40"
   end: "16:10"
+  uri: barefoot-six
 - name: Monster Machine
   start: "16:30"
   end: "17:00"
+  uri: monster-machine
 - name: XiniX
   start: "17:20"
   end: "17:50"
+  uri: xinix
 - name: Future Hearts
   start: "18:10"
   end: "18:50"
+  uri: future-hearts
 - name: Durf te Dromen
   start: "19:10"
   end: "19:40"
+  uri: durf-te-dromen

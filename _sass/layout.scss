@@ -66,6 +66,13 @@ hr {
         font-weight: 600;
       }
     }
+
+    a {
+      color: inherit;
+      &:hover {
+        color: $secondary;
+      }
+    }
   }
 }
 

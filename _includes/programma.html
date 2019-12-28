@@ -6,7 +6,7 @@
     <li>
         <div class="band mt-4">
             <div class="description">
-                <div class="name">{{ band.name | upcase }}</div>
+                <div class="name"><a href="/{{ band.uri }}">{{ band.name | upcase }}</a></div>
                 <div class="time">{{ band.start }} - {{ band.end}}</div>
             </div>
         </div>
