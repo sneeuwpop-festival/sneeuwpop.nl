@@ -1,7 +1,7 @@
 ---
 layout: band
 title: The Worst Example
-image: the-worst-example.jpg
+image: the-worst-example.png
 members:
   - name: Tim vd Geest
     role: vocals

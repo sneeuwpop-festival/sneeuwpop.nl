@@ -1,6 +1,7 @@
 ---
 layout: band
 title: Monster Machine
+image: monster-machine.jpg
 members:
   - name: Wilco Bakker
     role: zang
