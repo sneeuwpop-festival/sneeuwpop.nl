@@ -1,0 +1,27 @@
+<h2>{{ "Impressie" | upcase }}</h2>
+<div class="container">
+    <div class="row">
+        <div id="photos" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                {% for i in (1..33) %}
+                {% if i < 10 %}
+                {% capture index %}0{{i}}{% endcapture %}
+                {% else %}
+                {% capture index %}{{i}}{% endcapture %}
+                {% endif %}
+                <div class="carousel-item{% if forloop.first %} active{% endif %}">
+                    <img class="d-block" src="/assets/images/impressions/SP-{{ index }}.jpg" alt="Sneeuwpop impressie">
+                </div>
+                {% endfor %}
+            </div>
+            <a class="carousel-control-prev" href="#photos" role="button" data-slide="prev">
+                <i class="fa fa-5x fa-chevron-left"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#photos" role="button" data-slide="next">
+                <i class="fa fa-5x fa-chevron-right"></i>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</div>

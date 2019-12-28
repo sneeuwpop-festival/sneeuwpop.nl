@@ -132,3 +132,19 @@ hr {
     color: white;
   }
 }
+
+#photos {
+  width: 100%;
+  max-width: 1140px;
+  max-height: 855px;
+
+  img {
+    margin: auto;
+  }
+
+  .fa-chevron-right, .fa-chevron-left {
+    color: $primary;
+  }
+
+  overflow: hidden;
+}
