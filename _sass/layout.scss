@@ -114,3 +114,15 @@ hr {
   height: 500px;
   border: 0;
 }
+
+.footer {
+  background-color: $primary;
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px;
+
+  .fa {
+    margin: 0 30px;
+    color: white;
+  }
+}
