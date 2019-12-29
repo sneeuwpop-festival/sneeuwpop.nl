@@ -135,8 +135,30 @@ hr {
 
 #photos {
   width: 100%;
-  max-width: 1140px;
-  max-height: 855px;
+
+  img {
+    $ratio: 0.75;
+
+    @media (max-width: 576px) {
+      height: 75vw;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      height: $ratio*540px;
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+      height: $ratio*720px;
+    }
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+      height: $ratio*960px;
+    }
+
+    @media (min-width: 1200px) {
+      height: $ratio*1140px;
+    }
+  }
 
   img {
     margin: auto;
