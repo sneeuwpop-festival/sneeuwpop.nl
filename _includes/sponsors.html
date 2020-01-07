@@ -9,7 +9,12 @@
           <a href="{{ sponsor.link }}" target="_blank">
             <div class="sponsor">
               <span class="helper"></span>
-              <img src="{{ "/assets/images/sponsors/" | append: sponsor.img_name | relative_url }}"/>
+              <picture>
+                {% for img in sponsor.img %}
+                <source type="{{ img.type }}" srcset="/assets/images/sponsors/{{ img.src }}">
+                {% endfor %}
+                <img src="{{ "/assets/images/sponsors/" | append: sponsor.img.last.src | relative_url }}"/>
+              </picture>
             </div>
           </a>
         </div>
