@@ -10,7 +10,12 @@
                 {% capture index %}{{i}}{% endcapture %}
                 {% endif %}
                 <div class="carousel-item{% if forloop.first %} active{% endif %}">
-                    <img class="d-block lazyload" data-src="/assets/images/impressions/SP-{{ index }}.jpg" alt="Sneeuwpop impressie">
+                    <picture>
+                        {% capture image %}/assets/images/impressions/SP-{{ index }}{% endcapture %}
+                        <source type="image/webp" srcset="{{ image }}.webp">
+                        <source type="image/jpeg" srcset="{{ image }}.jpg">
+                        <img class="d-block lazyload" data-src="{{ image }}.jpg" alt="Sneeuwpop impressie">
+                    </picture>
                 </div>
                 {% endfor %}
             </div>
