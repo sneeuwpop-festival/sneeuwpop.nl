@@ -10,7 +10,7 @@
                 {% capture index %}{{i}}{% endcapture %}
                 {% endif %}
                 <div class="carousel-item{% if forloop.first %} active{% endif %}">
-                    <img class="d-block" src="/assets/images/impressions/SP-{{ index }}.jpg" alt="Sneeuwpop impressie">
+                    <img class="d-block lazyload" data-src="/assets/images/impressions/SP-{{ index }}.jpg" alt="Sneeuwpop impressie">
                 </div>
                 {% endfor %}
             </div>
