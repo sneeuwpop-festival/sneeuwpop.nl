@@ -124,3 +124,7 @@
       type: image/webp
     - src: scrumpy.jpg
       type: image/jpeg
+- link: http://www.bouwbedrijfjongerius.nl/
+  img:
+    - src: jongerius.svg
+      type: image/svg+xml
