@@ -29,3 +29,9 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Docker
+  - docker-compose.yml
