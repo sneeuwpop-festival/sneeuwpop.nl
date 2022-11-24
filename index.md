@@ -14,4 +14,8 @@ layout: default
 
 ---
 
+{% include intro.md %}
+
+---
+
 {% include photos.html %}
