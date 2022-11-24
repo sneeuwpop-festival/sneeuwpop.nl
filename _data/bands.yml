@@ -1,4 +1,4 @@
-- name: Square
+- name: round
   start: "14:00"
   end: "14:30"
   uri: square
