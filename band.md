@@ -1,6 +1,6 @@
 ---
 layout: band
-title: Band_1
+title: Bands
 image: 
 ---
 
