@@ -1,3 +1,4 @@
-## INTRO
+## OVER ONS
 
-Meer info volgt snel.
+Elke derde zaterdag van het jaar is er Sneeuwpop, het vroegste buitenfestival van Nederland. Sneeuwpop is het zusje van Waterpop en een rockfestival in de achtertuin van het Hofpark op het erf van de Hofboerderij. Tot nu toe zijn er 7 succesvolle edities geweest waar vooral lokale bands de mogelijkheid krijgen zich te presenteren voor een groter publiek. Sneeuwpop is ook een familiefestival met muziek, een drankje en een gezellig gesprek én met echte sneeuw en gratis limonade voor de kleintjes. 
+Het festival wordt georganiseerd door vrijwilligers en bestaat dankzij de inzet van lokale ondernemers die sponsoren in geld en natura. Kenmerkend voor het festival is de betrokkenheid van organisatie, bezoekers en sponsors en vooral de gezelligheid en de ontspannen sfeer. Voor meer informatie kijk op: sneeuwpop.nl
