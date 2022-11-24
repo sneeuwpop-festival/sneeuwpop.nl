@@ -3,12 +3,6 @@
     - src: generations.webp
       type: image/webp
     - src: generations.png
-      type: image/png
-- link: www.generations.nl
-  img:
-    - src: generations.webp
-      type: image/webp
-    - src: generations.png
       type: image/png      
 - link: https://www.biobestgroup.nl/
   img:
