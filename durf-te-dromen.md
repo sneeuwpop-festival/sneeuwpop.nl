@@ -1,6 +1,6 @@
 ---
 layout: band
-title: Durf te Dromen
+title: Band
 image: durf-te-dromen.jpg
 ---
 
