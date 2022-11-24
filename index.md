@@ -14,7 +14,7 @@ layout: default
 
 ---
 
-{% include intro.md %}
+{% include intro.html %}
 
 ---
 
