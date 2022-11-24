@@ -1,6 +1,6 @@
 ---
 layout: band
-title: Name_Us
+title: Name Us
 image: 
 genre: 
 ---
