@@ -1,6 +1,6 @@
 - name: onbekend
-  start: "14:00"
-  end: "14:30"
+  start: "?"
+  end: "?"
   uri: square
 - name: Onbekend
   start: "14:50"
