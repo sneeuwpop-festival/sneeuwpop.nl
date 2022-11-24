@@ -1,5 +1,5 @@
 ---
-layout band
+layout: band
 title: band
 members:
   - name: hoi
