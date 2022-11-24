@@ -178,6 +178,15 @@ hr {
   overflow: hidden;
 }
 
+p {
+  a {
+    color: $secondary;
+    &:hover, &:visited, &:active {
+      color: $secondary;
+    }
+  }
+}
+
 .uitvullen {
   text-align: justify;
 }
