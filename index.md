@@ -6,15 +6,16 @@ layout: default
 
 ---
 
+{% include intro.html %}
+
+---
+
 {% include sponsors.html %}
 
 ---
 
 {% include location.html %}
 
----
-
-{% include intro.html %}
 
 ---
 
