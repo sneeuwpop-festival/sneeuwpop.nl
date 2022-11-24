@@ -1,3 +1,3 @@
-## Intro
+## INTRO
 
 Meer info volgt snel.
