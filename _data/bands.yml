@@ -1,6 +1,7 @@
 - name: onbekend
   start: "?"
   end: "?"
+  uri: band_1
 - name: Onbekend
   start: "14:50"
   end: "15:20"
