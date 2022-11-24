@@ -1,28 +1,32 @@
-- name: round
+- name: onbekend
   start: "14:00"
   end: "14:30"
   uri: square
-- name: The Worst Example
+- name: Onbekend
   start: "14:50"
   end: "15:20"
   uri: the-worst-example
-- name: Barefoot Six
+- name: Onbekend
   start: "15:40"
   end: "16:10"
   uri: barefoot-six
-- name: Monster Machine
+- name: Onbekend
   start: "16:30"
   end: "17:00"
   uri: monster-machine
-- name: XiniX
+- name: Onbekend
   start: "17:20"
   end: "17:50"
   uri: xinix
-- name: Future Hearts
+- name: Onbekend
   start: "18:10"
   end: "18:50"
   uri: future-hearts
-- name: Durf te Dromen
+- name: Onbekend
+  start: "19:10"
+  end: "19:40"
+  uri: durf-te-dromen
+- name: Onbekend
   start: "19:10"
   end: "19:40"
   uri: durf-te-dromen
