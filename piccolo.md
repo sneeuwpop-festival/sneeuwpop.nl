@@ -1,8 +1,7 @@
 ---
 layout: band
 title: Piccolo
-image: name_us.jpeg
-genre: Pop, funk, rock en indie
+image: piccolo.jpg
 
 ---
 
