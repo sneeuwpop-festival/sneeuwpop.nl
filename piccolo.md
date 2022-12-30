@@ -1,7 +1,7 @@
 ---
-Layout: band
-Title: Piccolo
-Image: piccolo.jpg 
+layout: band
+title: Piccolo
+image: piccolo.jpg 
 members:
  - name: Marten
    role: Zang
