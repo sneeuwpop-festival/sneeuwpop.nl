@@ -1,15 +1,15 @@
 - name: Name Us
   start: "13.30"
   end: "14.00 uur"
-  uri: name-us.md
+  uri: name-us
 - name: Rokus
   start: "14.25"
   end: "14.55 uur"
-  uri: rokus.md
+  uri: rokus
 - name: Leftovers
   start: "15.20"
   end: "15.55 uur"
-  uri: leftovers.md
+  uri: leftovers
 - name: Alanis
   start: "16.15"
   end: "17.00 uur"
