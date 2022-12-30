@@ -5,16 +5,16 @@ image: yachtwerk.png
 genre: Klinkt als Steely Dan, the Black Crows, Young Gun Silver Fox, the Eagles.
 members:
   - name: Mick Willemsen
-    role: zang, toesten
+    role: Zang, toesten
   - name: Barry van der Knaap
-    role: gitaar
+    role: Gitaar
   - name: Lars Boekestijn
-    role: basgitaar
+    role: Basgitaar
   - name: Lars Rijnja
-    role: drums, achtergrond zang
+    role: Drums, achtergrond zang
 socials:
   - name: Youtube
-    role: @yachtwerk5305
+    role: yachtwerk5305
   - name: Spotify
     role: Yachtwerk
   - name: Instagram
