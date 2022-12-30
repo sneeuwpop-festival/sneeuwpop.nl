@@ -1,7 +1,7 @@
 ---
 layout: band
 title: Name Us
-image: 
+image: name_us.jpeg
 genre: 
 ---
 
