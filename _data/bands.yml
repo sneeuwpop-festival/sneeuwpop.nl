@@ -13,16 +13,16 @@
 - name: Alanis
   start: "16.15"
   end: "17.00 uur"
-  uri: alanis.md
+  uri: alanis
 - name: Melting Eyes
   start: "17.25"
   end: "17.55 uur"
-  uri: melting-eyes.md
+  uri: melting-eyes
 - name: Yachtwerk
   start: "18.20"
   end: "18.50 uur"
-  uri: yachtwerk.md
+  uri: yachtwerk
 - name: Piccolo
   start: "19.15"
   end: " 19.45 uur"
-  uri: piccolo.md
+  uri: piccolo
