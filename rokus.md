@@ -10,5 +10,5 @@ Maak kennis met ROKUS! Rokus is een Nedergrunge trio uit Delfgauw. Begonnen als 
 Alvast een voorproefje van ROKUS zien? 
 https://www.youtube.com/@rokusband6469/featured
 
-<i> Socials
+<i> Socials </i>
 Facebook: ROKUS
