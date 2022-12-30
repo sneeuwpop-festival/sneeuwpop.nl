@@ -1,6 +1,7 @@
 ---
 layout: band
 title: Yachtwerk
+image: yachtwerk.jpg
 genre: Klinkt als Steely Dan, the Black Crows, Young Gun Silver Fox, the Eagles.
 members:
   - name: Mick Willemsen
