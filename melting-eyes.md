@@ -1,7 +1,7 @@
 ---
 layout: band
 title: Melting Eyes
-image: melting_eyes.jpg
+image: melting_eyes.JPG
 members:
   - name: Pier Segaar
     role: Zang, gitaar
