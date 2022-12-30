@@ -19,11 +19,11 @@ layout: default
             {% if page.members %}
             <h4>LEDEN</h4>
             <ul>
-                <h3>
+                <h6>
                 {% for member in page.members %}
                 <li>{{ member.name }} - {{ member.role }}</li>
                 {% endfor %}
-                </h3>
+                </h6>
              </ul>
             {% endif %}
             
