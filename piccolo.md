@@ -1,7 +1,18 @@
 ---
 Layout: band
 Title: Piccolo
-Image: 
+Image: piccolo.jpg 
+members:
+ - name: Marten
+   role: Zang
+ - name: Michiel
+   role: Elektrische gitaar
+ - name: Laurens
+   role: Lead/solo gitarist
+ - name: Teun
+   role: Bassist
+ - name: Guido
+   role: Drummer
 ---
 
 Wij zijn PICCOLO!
