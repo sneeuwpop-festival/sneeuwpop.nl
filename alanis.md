@@ -2,7 +2,6 @@
 layout: band
 title: Alanis
 image: alanis.jpg
-genre: Alanis Morissette
 members:
   - name: Anne van Buuren
     role: Zang
