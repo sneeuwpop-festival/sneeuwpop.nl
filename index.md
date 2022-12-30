@@ -16,7 +16,6 @@ layout: default
 
 {% include location.html %}
 
-
 ---
 
 {% include photos.html %}
