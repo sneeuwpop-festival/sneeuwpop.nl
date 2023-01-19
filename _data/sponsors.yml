@@ -48,6 +48,10 @@
   img:
     - src: renewi.svg
       type: image/svg+xml
+- link: http://www.presscon.nl/
+  img:
+    - src: presscon.png
+      type: image/png
 - link: http://www.nessebouw.nl/
   img:
     - src: nessebouw.webp
