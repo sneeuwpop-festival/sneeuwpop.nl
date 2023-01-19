@@ -20,6 +20,10 @@
   img:
     - src: rvdhorst.gif
       type: image/gif
+- link: http://www.rvdhorst.nl/
+  img:
+    - src: rvdhorst.gif
+      type: image/gif
 - link: https://www.stijlplus.nl/
   img:
     - src: stijlplus.webp
