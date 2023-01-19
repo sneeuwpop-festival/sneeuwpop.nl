@@ -82,6 +82,10 @@
       type: image/webp
     - src: makro.png
       type: image/png
+- link: https://nl.linkedin.com/in/tinus-van-zanen-39966921a?trk=public_profile_browsemap&original_referer=https%3A%2F%2Fwww.google.com%2F
+  img:
+    - src: tinus_montage_demontage.jfif
+      type: image/jfif
 - link: http://www.velo.nl/sea/
   img:
     - src: velo.gif
