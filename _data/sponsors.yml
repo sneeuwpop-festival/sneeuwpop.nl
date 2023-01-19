@@ -32,6 +32,10 @@
       type: image/webp
     - src: verbakel.png
       type: image/png
+- link: http://www.aadvdhelmsloopwerken.nl/
+  img:
+    - src: aadvdhelm.png
+      type: image/png
 - link: https://vanderzandenservice.nl/
   img:
     - src: vanderzanden_service.png
