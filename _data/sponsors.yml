@@ -50,7 +50,7 @@
       type: image/svg+xml
 - link: http://www.presscon.nl/
   img:
-    - src: presscon.png
+    - src: Presscon.png
       type: image/png
 - link: http://www.nessebouw.nl/
   img:
