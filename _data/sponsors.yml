@@ -1,9 +1,3 @@
-- link: www.generations.nl
-  img:
-    - src: generations.webp
-      type: image/webp
-    - src: generations.png
-      type: image/png      
 - link: https://www.biobestgroup.nl/
   img:
     - src: biobest.webp
@@ -70,23 +64,11 @@
   img:
     - src: molenaar.svg
       type: image/svg+xml
-- link: http://www.eekhoutbouw.nl/
-  img:
-    - src: eekhout.webp
-      type: image/webp
-    - src: eekhout.jpg
-      type: image/jpeg
 - link: https://www.makro.nl/
   img:
     - src: makro.webp
       type: image/webp
     - src: makro.png
-      type: image/png
-- link: http://hekatec.nl/
-  img:
-    - src: hekatec.webp
-      type: image/webp
-    - src: hekatec.png
       type: image/png
 - link: http://www.velo.nl/sea/
   img:
@@ -98,16 +80,6 @@
       type: image/webp
     - src: peterboeters.png
       type: image/png
-- link: http://www.jacvanzeijl.nl/
-  img:
-    - src: jacvanzeijl.webp
-      type: image/webp
-    - src: jacvanzeijl.png
-      type: image/png
-- link: https://roodenrijs.meesterbakker.nl/
-  img:
-    - src: roodenrijs.svg
-      type: image/svg+xml
 - link: https://www.aviboor.nl/
   img:
     - src: aviboor.gif
@@ -124,7 +96,3 @@
       type: image/webp
     - src: scrumpy.jpg
       type: image/jpeg
-- link: http://www.bouwbedrijfjongerius.nl/
-  img:
-    - src: jongerius.svg
-      type: image/svg+xml
