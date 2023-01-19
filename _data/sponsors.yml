@@ -32,6 +32,10 @@
       type: image/webp
     - src: verbakel.png
       type: image/png
+- link: http://www.hersbachbeton.nl/
+  img:
+    - src: hersbach_beton.png
+      type: image/png
 - link: http://www.aadvdhelmsloopwerken.nl/
   img:
     - src: aadvdhelm.png
