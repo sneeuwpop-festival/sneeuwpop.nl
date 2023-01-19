@@ -90,8 +90,8 @@
       type: image/png
 - link: https://www.aviboor.nl/
   img:
-    - src: aviboor.gif
-      type: image/gif
+    - src: aviboor_avisloop.png
+      type: image/png
 - link: https://linneweever.nl/
   img:
     - src: linneweever.webp
