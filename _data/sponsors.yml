@@ -50,6 +50,10 @@
       type: image/webp
     - src: mojer.png
       type: image/png
+- link: https://tibodesign.nl/
+  img:
+    - src: tibo.jpg
+      type: image/jpg
 - link: http://www.leobol.com/
   img:
     - src: leobol.webp
