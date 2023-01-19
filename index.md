@@ -20,3 +20,8 @@ layout: default
 ---
 
 {% include photos.html %}
+
+
+---
+
+{% include tibo.html %}
