@@ -20,15 +20,15 @@
   img:
     - src: rvdhorst.gif
       type: image/gif
-- link: http://www.rvdhorst.nl/
-  img:
-    - src: rvdhorst.gif
-      type: image/gif
 - link: https://www.stijlplus.nl/
   img:
     - src: stijlplus.webp
       type: image/webp
     - src: stijlplus.png
+      type: image/png
+- link: https://www.alblasinterntransport.nl/
+  img:
+    - src: alblas_intern_transport.png
       type: image/png
 - link: https://www.verbakel.com/
   img:
