@@ -80,6 +80,14 @@
   img:
     - src: aviboor_avisloop.png
       type: image/png
+- link: http://www.bouwbedrijfjongerius.nl/
+  img:
+    - src: jongerius.svg
+      type: image/svg+xml
+- link: https://deuithof.nl/
+  img:
+    - src: uithof.jpg
+      type: image/jpg
 - link: https://linneweever.nl/
   img:
     - src: linneweever.webp
