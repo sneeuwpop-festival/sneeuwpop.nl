@@ -78,12 +78,10 @@
   img:
     - src: suzuki_kees_balvert.png
       type: image/png
-- link: http://www.nessebouw.nl/
+- link: http://nasoldschool.synology.me/dsh/
   img:
-    - src: nessebouw.webp
-      type: image/webp
-    - src: nessebouw.jpg
-      type: image/jpeg
+    - src: dsh_security.jfif
+      type: image/jfif
 - link: http://www.betonverbraeken.nl/
   img:
     - src: betonverbraeken.webp
@@ -100,10 +98,10 @@
       type: image/webp
     - src: makro.png
       type: image/png
-- link: https://nl.linkedin.com/in/tinus-van-zanen-39966921a?trk=public_profile_browsemap&original_referer=https%3A%2F%2Fwww.google.com%2F
+- link: https://roodenrijs.meesterbakker.nl/
   img:
-    - src: tinus_montage_demontage.jfif
-      type: image/jfif
+    - src: roodenrijs_remmerswaal.png
+      type: image/png
 - link: http://www.velo.nl/sea/
   img:
     - src: velo.gif
