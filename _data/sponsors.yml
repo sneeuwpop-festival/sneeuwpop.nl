@@ -64,10 +64,12 @@
       type: image/webp
     - src: leobol.png
       type: image/png
-- link: https://www.renewi.com
+- link: http://hekatec.nl/
   img:
-    - src: renewi.svg
-      type: image/svg+xml
+    - src: hekatec.webp
+      type: image/webp
+    - src: hekatec.png
+      type: image/png
 - link: http://www.presscon.nl/
   img:
     - src: Presscon.png
