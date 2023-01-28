@@ -10,22 +10,10 @@
       type: image/webp
     - src: brochvolkering.png
       type: image/png
-- link: https://www.ouwerling-hoveniers.nl/
-  img:
-    - src: ouwerling-hoveniers.webp
-      type: image/webp
-    - src: ouwerling-hoveniers.jpg
-      type: image/jpeg
 - link: http://www.rvdhorst.nl/
   img:
     - src: rvdhorst.gif
       type: image/gif
-- link: https://www.stijlplus.nl/
-  img:
-    - src: stijlplus.webp
-      type: image/webp
-    - src: stijlplus.png
-      type: image/png
 - link: https://www.alblasinterntransport.nl/
   img:
     - src: alblas_intern_transport.png
@@ -35,24 +23,6 @@
     - src: verbakel.webp
       type: image/webp
     - src: verbakel.png
-      type: image/png
-- link: http://www.hersbachbeton.nl/
-  img:
-    - src: hersbach_beton.png
-      type: image/png
-- link: http://www.aadvdhelmsloopwerken.nl/
-  img:
-    - src: aadvdhelm.png
-      type: image/png
-- link: https://vanderzandenservice.nl/
-  img:
-    - src: vanderzanden_service.png
-      type: image/png
-- link: https://mojer.nl/
-  img:
-    - src: mojer.webp
-      type: image/webp
-    - src: mojer.png
       type: image/png
 - link: https://tibodesign.nl/
   img:
@@ -82,12 +52,6 @@
   img:
     - src: dsh_security.jfif
       type: image/jfif
-- link: http://www.betonverbraeken.nl/
-  img:
-    - src: betonverbraeken.webp
-      type: image/webp
-    - src: betonverbraeken.jpg
-      type: image/jpeg
 - link: http://molenaarservice.nl/
   img:
     - src: molenaar.svg
