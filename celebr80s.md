@@ -6,9 +6,10 @@ members:
   - name:
     role: 
 
+image: foto-celebr80s.jpg
     
 ---
 
 Beschrijving
 
-image: foto-celebr80s.jpg
+
