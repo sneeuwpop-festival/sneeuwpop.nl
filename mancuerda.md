@@ -1,15 +1,15 @@
 ---
 layout: band
-title: ROKUS
-image: rokus.jpg
-genre: Nedergrunge
+title: Mancuerda
+image: 
+genre: 
 socials:
   - name: Youtube
-    role: rokusband6469
+    role: 
   - name: Facebook
-    role: ROKUS
+    role: 
  
 ---
 
-B
+Bechrijving
 
