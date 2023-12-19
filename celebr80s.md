@@ -1,7 +1,8 @@
 ---
 layout: band
 title: Celebr80s
-image: 
+image: foto-celebr80s.jpg
+image: logo-celebr80s.jpg
 members:
   - name:
     role: 
