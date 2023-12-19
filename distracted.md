@@ -11,7 +11,13 @@ members:
     role: 
   - name: 
     role: 
-genre: 
+genre:
+
+socials:
+  - name: Instagram
+    role: https://www.instagram.com/distractedbandofficial/
+  - name: Tiktok
+    role: @distractedbandofficial
 ---
 
 Distracted is een 6 koppige coverband met 5 heren en 1 dame. Bassist Sarkees, drummer Stan, toetsenist Oscar, gitaristen Tim en Moritz en zangeres Evelien. 
