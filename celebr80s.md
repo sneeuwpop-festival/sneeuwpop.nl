@@ -22,11 +22,11 @@ members:
 
 socials:
   - name: Instagram
-    role: https://www.instagram.com/bandcelebr80s/
+    role: <a href="https://www.instagram.com/bandcelebr80s/">Instagram</a>
   - name: Facebook
-    role: https://www.facebook.com/Celebr80sband
+    role: <a href="https://www.facebook.com/Celebr80sband">Facebook</a>
   - name: Website
-    role: https://www.celebr80s.nl/?fbclid=IwAR1P0-mrJb0fU7NJ-yErm9K1rHSOdHN5stCjcFOdIXMTOs9Y9EkVsu6HrII
+    role: <a href="https://www.celebr80s.nl/?fbclid=IwAR1P0-mrJb0fU7NJ-yErm9K1rHSOdHN5stCjcFOdIXMTOs9Y9EkVsu6HrII">Website</a>
 
     
 ---
