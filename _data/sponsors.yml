@@ -90,8 +90,8 @@
   img:
     - src: betonverbraeken.webp
       type: image/webp
-    - src: betonverbraeken.png
-      type: image/png
+    - src: betonverbraeken.jpg
+      type: image/jpg
 - link: http://www.peterboeters.nl/
   img:
     - src: peterboeters.webp
