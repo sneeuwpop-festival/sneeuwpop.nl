@@ -24,8 +24,8 @@ socials:
   - name: <a href="https://www.tiktok.com/@distractedbandofficial">Tiktok</a>
     role: distractedbandofficial
   - name: <a href="https://linktr.ee/distractedbandofficial?utm_source=linktree_admin_share">Website</a>
-    role: linkr.ee/distractedbandoffical
-  - name: <a href="https://www.youtube.com/@Distractedbandofficial>Youtube</a>
+    role: linktr.ee/distractedbandoffical
+  - name: <a href="https://www.youtube.com/@Distractedbandofficial">Youtube</a>
     role: Distractedbandoffical
 
 ---
