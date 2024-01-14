@@ -1,6 +1,6 @@
 - name: Distracted
-  start: 13.30
-  end: 14.00
+  start: 13:30
+  end: 14:00
   uri: distracted
 - name: Rauwkost
   start: 14.25
