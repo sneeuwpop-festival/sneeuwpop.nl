@@ -14,11 +14,12 @@ genre: Nederlandstalige rock
 
 socials:
   - name: Instagram
-    role: https://www.instagram.com/rauwkostmusic/ 
+    role: <a href="https://www.instagram.com/rauwkostmusic/">rauwkostmusic</a>
   - name: Facebook
-    role: <a href="https://www.facebook.com/profile.php?id=100086490596009" target="_blank"><i class="fa fa-3x fa-facebook"></i></a>
+    role: <a href="https://www.facebook.com/profile.php?id=100086490596009">rauwkost</a>
   - name: Youtube 
-    role: https://www.youtube.com/watch?v=w_B6QSYhEvg
+    role: <a href="https://youtube.com/@rauwkostofficial">rauwkostoffical</a>
+
 ---
 
 Soms moet je het leven (en jezelf) niet té serieus nemen.
