@@ -122,8 +122,8 @@
       type: image/png
 - link: https://nederlanddrie.nl/
   img:
-    - src: nederland_3_logo.jpg
-      type: image/jpeg
+    - src: nederland_3_logo.png
+      type: image/png
 - link: https://vanderzandenservice.nl/
   img:
     - src: vanderzanden_service.png
