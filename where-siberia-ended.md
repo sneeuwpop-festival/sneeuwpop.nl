@@ -16,11 +16,12 @@ genre: De verbinding tussen post-punk, alternatieve rock en grunge
 
 socials:
   - name: Instagram
-    role: https://www.instagram.com/wse.band/
+    role: <a href="https://www.instagram.com/wse.band/">wse.band</a>
   - name: Facebook
-    role: https://www.facebook.com/WhereSiberiaEnded
+    role: <a href="https://www.facebook.com/WhereSiberiaEnded">WhereSiberiaEnded</a> 
   - name: Website
-    role: https://linktr.ee/wheresiberiaended?utm_source=linktree_profile_share&ltsid=90f1e048-5a50-4280-850a-156f3c677b4c&fbclid=IwAR36IfUV4WakiTGhQSxCv6peN22AQ-kg4F4oZ0gL8HaOzLTp_uN8mu_6lMA
+    role: <a href="https://linktr.ee/wheresiberiaended?utm_source=linktree_profile_share&ltsid=90f1e048-5a50-4280-850a-156f3c677b4c&fbclid=IwAR36IfUV4WakiTGhQSxCv6peN22AQ-kg4F4oZ0gL8HaOzLTp_uN8mu_6lMA">linktr.ee/wheresiberiaended</a> 
+
 ---
 
 Where Siberia Ended definieert de verbinding tussen post-punk, alternatieve rock en grunge. De Delftse band zette een geheel eigen geluid neer en liet zich inspireren door bands als Pearl Jam, Joy Division en Editors. Hun muziek is niet alleen een oprecht antwoord op problemen in angstige tijden, het gaat ook over het maken van keuzes en worstelingen in het leven.
