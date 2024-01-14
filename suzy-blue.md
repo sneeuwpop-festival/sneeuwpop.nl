@@ -16,9 +16,9 @@ genre: Met een inspiratiebron die reikt van blues tot funk en van country tot bl
 
 socials:
   - name: Instagram
-    role: <a href="https://www.instagram.com/suzybluemusic/">suxybluemusic</a>
+    role: <a href="https://www.instagram.com/suzybluemusic/">suzybluemusic</a>
   - name: Facebook
-    role: <a href="https://www.facebook.com/suzyblueNL">suxyblueNL</a>
+    role: <a href="https://www.facebook.com/suzyblueNL">suzyblueNL</a>
 
 ---
 
