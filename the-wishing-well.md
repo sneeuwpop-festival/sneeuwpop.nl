@@ -3,6 +3,15 @@ layout: band
 title: The Wishing Well
 image: the_wishing_well_logo.jpg
 
+socials:
+  - name: Instagram
+    role: https://www.instagram.com/the_wishing_well_the_hague/
+  - name: Facebook
+    role: https://www.facebook.com/profile.php?id=100089318171015
+  - name: Website
+    role: https://w-well.nl/?fbclid=IwAR1ybP-bKc63QI6nAwB_TV4xSZ_JhXEzG8R5ioaXAd9sUPqkZkVdqe8SkY
+  - name: Spotify
+    role: https://open.spotify.com/album/27skjt1hjwhMJRybEdFVAz?si=fafgH1ZVRtuOGHEBochUFg&nd=1&dlsi=69ffb143ca334aea
 
 
 ---
