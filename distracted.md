@@ -19,14 +19,14 @@ members:
 genre: Pop, rock, blues, rock ‘n roll
 
 socials:
-  - name: <a href="https://www.instagram.com/distractedbandofficial/">Instagtram</a>
-    role: distractedbandoffical 
-  - name: <a href="https://www.tiktok.com/@distractedbandofficial">Tiktok</a>
-    role: distractedbandofficial
-  - name: <a href="https://linktr.ee/distractedbandofficial?utm_source=linktree_admin_share">Website</a>
-    role: linktr.ee/distractedbandoffical
-  - name: <a href="https://www.youtube.com/@Distractedbandofficial">Youtube</a>
-    role: Distractedbandoffical
+  - name: Instagram
+    role: <a href="https://www.instagram.com/distractedbandofficial/">distractedbandoffical</a> 
+  - name: Tiktok
+    role: <a href="https://www.tiktok.com/@distractedbandofficial">distractedbandofficial</a>
+  - name: Website
+    role: <a href="https://linktr.ee/distractedbandofficial?utm_source=linktree_admin_share">linktr.ee/distractedbandoffical</a>
+  - name: Youtube
+    role: <a href="https://www.youtube.com/@Distractedbandofficial">Distractedbandoffical</a>
 
 ---
 
