@@ -136,3 +136,7 @@
   img:
     - src: renewi_vanvliet.jpg
       type: image.jpg
+- link: https://bergelektra.nl/
+  img:
+    - src: mvdberg.png
+      type: image.png
