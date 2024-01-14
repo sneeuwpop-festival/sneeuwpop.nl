@@ -128,3 +128,7 @@
   img:
     - src: vanderzanden_service.png
       type: image/png
+- link: http://www.frankvijverberg-timmerbedrijf.nl/Home/
+  img:
+    - src: frankvijverbergtimmerbedrijf.png
+      type: image/png
