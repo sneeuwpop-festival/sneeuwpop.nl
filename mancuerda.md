@@ -15,12 +15,12 @@ members:
 genre: Old school deathmetal
 
 socials:
-  - name: <a href="https://www.instagram.com/mancuerdanl/">Instagram</a>
-    role: mancuerdanl
-  - name: <a href="https://www.facebook.com/MancuerdaNL">Facebook</a>
-    role: MancuerdaNL
-  - name: <a href="https://www.youtube.com/watch?v=m5t4N-KZSmc">Youtube<?a>
-    role: mancuerdaband3826
+  - name: Instagram
+    role: <a href="https://www.instagram.com/mancuerdanl/">mancuerdanl</a>
+  - name: Facebook
+    role: <a href="https://www.facebook.com/MancuerdaNL">MancuerdaNL</a>
+  - name: Youtube
+    role: <a href="https://www.youtube.com/watch?v=m5t4N-KZSmc">mancuerdaband3826<?a>
 
 ---
 
