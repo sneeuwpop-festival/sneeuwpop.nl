@@ -106,10 +106,6 @@
   img:
     - src: jongerius.svg
       type: image/svg+xml
-- link: https://dewijsagf.nl/
-  img:
-    - src: de_wijs.png
-      type: image/png
 - link: https://deuithof.nl/
   img:
     - src: uithof.jpg
