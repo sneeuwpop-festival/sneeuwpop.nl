@@ -11,7 +11,7 @@ socials:
   - name: Website
     role: <a href="https://w-well.nl/?fbclid=IwAR1ybP-bKc63QI6nAwB_TV4xSZ_JhXEzG8R5ioaXAd9sUPqkZkVdqe8SkY">w-well.nl</a>
   - name: Spotify
-    role: <a href="https://open.spotify.com/album/27skjt1hjwhMJRybEdFVAz?si=fafgH1ZVRtuOGHEBochUFg&nd=1&dlsi=69ffb143ca334aea">The Wishing Well</a>
+    role: <a href="https://open.spotify.com/artist/4ZXBsQkwMbKMXyPuFKZ3Gx">The Wishing Well</a>
 
 ---
 
