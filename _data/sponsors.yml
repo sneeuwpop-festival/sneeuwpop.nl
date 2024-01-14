@@ -50,6 +50,12 @@
       type: image/webp
     - src: hekatec.png
       type: image/png
+- link: https://stijlplus.nl/
+  img:
+    - src: stijlplus.webp
+      type: image/webp
+    - src: stijlplus.png
+      type: image/png
 - link: http://www.presscon.nl/
   img:
     - src: Presscon.png
