@@ -86,6 +86,12 @@
   img:
     - src: velo.gif
       type: image/gif
+- link: https://www.betonverbraeken.nl/
+  img:
+    - src: betonverbraeken.webp
+      type: image/webp
+    - src: betonverbraeken.png
+      type: image/png
 - link: http://www.peterboeters.nl/
   img:
     - src: peterboeters.webp
