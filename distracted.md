@@ -15,17 +15,17 @@ members:
     role: Gitarist
   - name: Evelien
     role: Zangeres
+
 genre: Pop, rock, blues, rock ‘n roll
 
 socials:
-  - name: Instagram
-    role: https://www.instagram.com/distractedbandofficial/
-  - name: Tiktok
+  - name: <a href="https://www.instagram.com/distractedbandofficial/">Instagtram</a>
+    role: distractedbandoffical 
+  - name: <a href="https://www.tiktok.com/@distractedbandofficial">Tiktok</a>
     role: distractedbandofficial
-  - name: Website
-    role: https://linktr.ee/distractedbandofficial?utm_source=linktree_admin_share
-  - name: Youtube
-    role: https://www.youtube.com/watch?v=g0aeIhplKKI
+  - name: <a href="https://linktr.ee/distractedbandofficial?utm_source=linktree_admin_share">Website</a>
+    role: linkr.ee/distractedbandoffical
+  - name: <a href="https://www.youtube.com/watch?v=g0aeIhplKKI>Youtube</a>
 ---
 
 Distracted is een 6 koppige coverband met 5 heren en 1 dame. Bassist Sarkees, drummer Stan, toetsenist Oscar, gitaristen Tim en Moritz en zangeres Evelien. 
