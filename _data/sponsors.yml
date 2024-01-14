@@ -112,3 +112,7 @@
   img:
     - src: nederland_3_logo.jpg
       type: image/jpeg
+- link: https://vanderzandenservice.nl/
+  img:
+    - src: vanderzandenservice.png
+      type: image/png
