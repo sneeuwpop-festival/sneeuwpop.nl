@@ -1,23 +1,31 @@
 ---
 layout: band
 title: Distracted
-image: 
+image: distracted_foto.jpg
 members:
-  - name: 
-    role: 
-  - name: 
-    role: 
-  - name: 
-    role: 
-  - name: 
-    role: 
-genre:
+  - name: Sarkees
+    role: Bassist
+  - name: Stan
+    role: Drummer
+  - name: Oscar
+    role: Toetsenist
+  - name: Tim
+    role: Gitarist
+  - name: Moritz
+    role: Gitarist
+  - name: Evelien
+    role: Zangeres
+genre: Pop, rock, blues, rock ‘n roll
 
 socials:
   - name: Instagram
     role: https://www.instagram.com/distractedbandofficial/
   - name: Tiktok
     role: distractedbandofficial
+  - name: Website
+    role: https://linktr.ee/distractedbandofficial?utm_source=linktree_admin_share
+  - name: Youtube
+    role: https://www.youtube.com/watch?v=g0aeIhplKKI
 ---
 
 Distracted is een 6 koppige coverband met 5 heren en 1 dame. Bassist Sarkees, drummer Stan, toetsenist Oscar, gitaristen Tim en Moritz en zangeres Evelien. 
