@@ -5,7 +5,9 @@ image: the_wishing_well_logo.jpg
 
 socials:
   - name: Instagram
-    role: https://www.instagram.com/the_wishing_well_the_hague/
+    role: 
+
+    https://www.instagram.com/the_wishing_well_the_hague/
   - name: Facebook
     role: https://www.facebook.com/profile.php?id=100089318171015
   - name: Website
