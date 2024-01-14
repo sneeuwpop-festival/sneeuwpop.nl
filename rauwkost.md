@@ -9,13 +9,14 @@ members:
     role: Drummer
   - name: Micha Koster
     role: Gitarist
+
 genre: Nederlandstalige rock
 
 socials:
   - name: Instagram
     role: https://www.instagram.com/rauwkostmusic/ 
   - name: Facebook
-    role: https://www.facebook.com/profile.php?id=100086490596009 
+    role: <a href="https://www.facebook.com/profile.php?id=100086490596009" target="_blank"><i class="fa fa-3x fa-facebook"></i></a>
   - name: Youtube 
     role: https://www.youtube.com/watch?v=w_B6QSYhEvg
 ---
