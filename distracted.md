@@ -25,7 +25,9 @@ socials:
     role: distractedbandofficial
   - name: <a href="https://linktr.ee/distractedbandofficial?utm_source=linktree_admin_share">Website</a>
     role: linkr.ee/distractedbandoffical
-  - name: <a href="https://www.youtube.com/watch?v=g0aeIhplKKI>Youtube</a>
+  - name: <a href="https://www.youtube.com/@Distractedbandofficial>Youtube</a>
+    role: Distractedbandoffical
+
 ---
 
 Distracted is een 6 koppige coverband met 5 heren en 1 dame. Bassist Sarkees, drummer Stan, toetsenist Oscar, gitaristen Tim en Moritz en zangeres Evelien. 
