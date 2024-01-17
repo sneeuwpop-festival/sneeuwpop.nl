@@ -128,10 +128,6 @@
   img:
     - src: frankvijverbergtimmerbedrijf.png
       type: image/png
-- link: https://www.renewi.com/nl-nl/
-  img:
-    - src: renewi_vanvliet.jpg
-      type: image.jpg
 - link: https://bergelektra.nl/
   img:
     - src: mvdberg.png
