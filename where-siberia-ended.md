@@ -20,7 +20,9 @@ socials:
   - name: Facebook
     role: <a href="https://www.facebook.com/WhereSiberiaEnded">WhereSiberiaEnded</a> 
   - name: Website
-    role: <a href="https://linktr.ee/wheresiberiaended?utm_source=linktree_profile_share&ltsid=90f1e048-5a50-4280-850a-156f3c677b4c&fbclid=IwAR36IfUV4WakiTGhQSxCv6peN22AQ-kg4F4oZ0gL8HaOzLTp_uN8mu_6lMA">linktr.ee/wheresiberiaended</a> 
+    role: <a href="https://linktr.ee/wheresiberiaended?utm_source=linktree_profile_share&ltsid=90f1e048-5a50-4280-850a-156f3c677b4c&fbclid=IwAR36IfUV4WakiTGhQSxCv6peN22AQ-kg4F4oZ0gL8HaOzLTp_uN8mu_6lMA">linktr.ee/wheresiberiaended</a>
+  - name: Spotify
+    role: <a href:"https://open.spotify.com/artist/5sD1vxadc20825bu9NwzKS">Where Siberia Ended</a>
 
 ---
 
