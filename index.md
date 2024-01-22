@@ -2,7 +2,11 @@
 layout: default
 ---
 
-{% include bedank.html %}
+{% include bedankt.html %}
+
+---
+
+{% include sponsors.html %}
 
 ---
 
@@ -11,10 +15,6 @@ layout: default
 ---
 
 {% include intro.html %}
-
----
-
-{% include sponsors.html %}
 
 ---
 
