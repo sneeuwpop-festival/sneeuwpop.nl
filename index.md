@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% include bedank.html %}
+
+---
+
 {% include programma.html %}
 
 ---
