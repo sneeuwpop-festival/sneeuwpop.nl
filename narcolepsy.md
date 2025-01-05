@@ -1,24 +1,7 @@
 ---
 layout: band
 title: Narcolepsy
-image: 
-members:
- - name: 
-   role: 
- - name: 
-   role: 
- - name: 
-   role: 
- - name: 
-   role: 
-
-genre: 
-
-socials:
-  - name: Instagram
-    role: 
-  - name: Facebook
-    role: 
+image: foto-narcolepsy.jpg
 
 ---
 
