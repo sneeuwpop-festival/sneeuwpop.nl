@@ -1,17 +1,7 @@
 ---
 layout: band
 title: Dirty Job
-image: 
-
-socials:
-  - name: Instagram
-    role:
-  - name: Facebook
-    role: 
-  - name: Website
-    role: 
-  - name: Spotify
-    role: 
+image: foto-dirty-job.jpg
 
 ---
 
