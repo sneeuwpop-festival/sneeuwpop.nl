@@ -1,14 +1,7 @@
 ---
 layout: band
 title: Days Of Yore
-image: 
-members:
-  - name: 
-    role: 
-
-socials:
-  - name: Instagram
-    role: 
+image: foto-days-of-yore.webp
 
     
 ---
