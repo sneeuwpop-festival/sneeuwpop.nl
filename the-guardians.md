@@ -1,17 +1,7 @@
 ---
 layout: band
 title: The Guardians
-image: 
-members:
-  - name: 
-    role: 
-
-
-genre: 
-
-socials:
-  - name: Instagram
-    role: 
+image: foto-the-guardians.jpg
 
 ---
 
