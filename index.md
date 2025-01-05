@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% include bedankt.html %}
+
+---
+
 {% include programma.html %}
 
 ---
