@@ -1,24 +1,7 @@
 ---
 layout: band
 title: Henderson
-image: 
-members:
-  - name: 
-    role: 
-  - name: 
-    role: 
-  - name: 
-    role: 
-
-genre: 
-
-socials:
-  - name: Instagram
-    role: 
-  - name: Facebook
-    role: 
-  - name: Youtube 
-    role: 
+image: foto-henderson.jpg
 
 ---
 
