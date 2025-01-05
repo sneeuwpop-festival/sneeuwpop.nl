@@ -1,17 +1,7 @@
 ---
 layout: band
 title: Cover Bandits
-image: 
-members:
-  - name:
-    role: 
-
-
-genre:
-
-socials:
-  - name: Instagram
-    role: 
+image: foto-cover-bandits.jpg
 
 
 ---
