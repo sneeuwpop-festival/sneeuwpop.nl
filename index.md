@@ -2,14 +2,6 @@
 layout: default
 ---
 
-{% include bedankt.html %}
-
----
-
-{% include sponsors.html %}
-
----
-
 {% include programma.html %}
 
 ---
@@ -18,8 +10,11 @@ layout: default
 
 ---
 
-{% include location.html %}
+{% include sponsors.html %}
 
+---
+
+{% include location.html %}
 
 ---
 
