@@ -5,7 +5,7 @@ image: foto-henderson.jpg
 
 members:
   - name: Hein Banen
-    role: Authentiek en passievol: 
+    role: Authentiek en passievol.
 
 socials:
   - name: Instagram 
