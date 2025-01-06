@@ -16,6 +16,14 @@ members:
   - name: Cynthia
     role: Achtergrondzangeres
 
+socials:
+  - name: Website
+    role: <a href="https://linktr.ee/guardianstheband">guardianstheband</a>
+  - name: Facebook
+    role: <a href="https://www.facebook.com/TheGuardiansTheBand/about?locale=nl_NL">TheGuardiansTheBand</a>
+      - name: Instagram
+    role: <a href="https://www.instagram.com/theguardianstheband/">TheGuardiansTheBand</a>
+
 ---
 
 The Guardians brengen een mix van heerlijke nostalgie en spannende nieuwe vibes. Schrijvend aan nieuwe nummers, kunnen zij zich nog niet losmaken van de rock covers waar ze zo'n fan van zijn. Bij elkaar gekomen door middel van de Bandsessies bij Muziektaktiek, komen zij uit de omstreken Westland, Delft en Rockanje. 
