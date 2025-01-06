@@ -11,13 +11,13 @@ members:
     role: Drums
 
 socials:
-  - name: -
+  - name: .
     role: <a href="https://www.instagram.com/narcolepsythrash?utm_source=ig_web_button_share_sheet&igsh=OGQ5ZDc2ODk2ZA%3D%3D">Instagram</a>
-  - name: -
+  - name: .
     role: <a href="https://www.facebook.com/profile.php?id=61554657095316">Facebook</a>
-  - name: -
+  - name: .
     role: <a href="https://www.youtube.com/@Narcolepsy666">Youtube</a>
-  - name: -
+  - name: .
     role: <a href="https://www.youtube.com/watch?v=r28AtdG7FXI">Live in StudioGonz</a>
     
 ---
