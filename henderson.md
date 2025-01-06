@@ -3,6 +3,10 @@ layout: band
 title: Henderson
 image: foto-henderson.jpg
 
+members:
+  - name: Hein Banen
+    role: Authentiek en passievol: 
+
 socials:
   - name: Instagram 
     role: <a href="https://www.instagram.com/hendersonbluesrocknroll/profilecard/?igsh=Y3M1dW82NG8xYnNq">Hendersonbluesrocknroll</a>
