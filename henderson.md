@@ -5,11 +5,11 @@ image: foto-henderson.jpg
 
 socials:
   - name: Instagram 
-    role: <a href="https://www.instagram.com/hendersonbluesrocknroll/profilecard/?igsh=Y3M1dW82NG8xYnNq"</a>
+    role: <a href="https://www.instagram.com/hendersonbluesrocknroll/profilecard/?igsh=Y3M1dW82NG8xYnNq"></a>
   - name: Facebook
-    role: <a href="https://www.facebook.com/profile.php?id=61557669430621&rdid=dnOsXMwLGONypgUa&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19QorfHJDC%2F"</a>
+    role: <a href="https://www.facebook.com/profile.php?id=61557669430621&rdid=dnOsXMwLGONypgUa&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19QorfHJDC%2F"></a>
   - name: Website
-    role: <a href="https://hendersonband.nl/?fbclid=IwY2xjawHpGQFleHRuA2FlbQIxMAABHbG2SfvdDe_zigQ0NHB_WqSqL1c-3ysjIVjq3o0KoU4z3LoZv74zJ_Qujw_aem_h5fXGpCoTL3DXmT2V62FEw"</a>
+    role: <a href="https://hendersonband.nl/?fbclid=IwY2xjawHpGQFleHRuA2FlbQIxMAABHbG2SfvdDe_zigQ0NHB_WqSqL1c-3ysjIVjq3o0KoU4z3LoZv74zJ_Qujw_aem_h5fXGpCoTL3DXmT2V62FEw"></a>
 ---
 
 Bluesrock en rock 'n roll zijn de twee hoofdingrediënten van band Henderson! Tijdloze muziek, bruisend en gedreven zoals altijd.
