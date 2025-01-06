@@ -3,7 +3,13 @@ layout: band
 title: Cover Bandits
 image: foto-cover-bandits.jpg
 
-
+socials:
+  - name: Website
+    role: <a href="https://www.coverbandits.nl/">CoverBandits</a>
+  - name: Instagram 
+    role: <a href="https://www.instagram.com/thecoverbandits">CoverBandits</a>
+  - name: Facebook
+    role: <a href="https://www.facebook.com/profile.php?id=61555037267288">CoverBandits</a>
 ---
 
 Cover Bandits staat garant voor een misdadig goed feest! Deze acht topmuzikanten weten als geen ander hoe ze een zaal in beweging krijgen. Met twee krachtige zangeressen, twee dynamische saxofonisten, een fantastische gitarist, een virtuoze toetsenist en een ritmesectie die als een huis staat, brengen ze een unieke mix van klassiekers en moderne hits.
