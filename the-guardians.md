@@ -2,6 +2,19 @@
 layout: band
 title: The Guardians
 image: foto-the-guardians.jpg
+members:
+  - name: Roy
+    role: Gitaar
+  - name: Sebas
+    role: Gitaar
+  - name: Stefan
+    role: Basgitaar
+  - name: Jaco
+    role: Drums
+  - name: Lizanne
+    role: Zang en incidenteel gitaar
+  - name: Cynthia
+    role: Achtergrondzangeres
 
 ---
 
