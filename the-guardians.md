@@ -21,7 +21,7 @@ socials:
     role: <a href="https://linktr.ee/guardianstheband">guardianstheband</a>
   - name: Facebook
     role: <a href="https://www.facebook.com/TheGuardiansTheBand/about?locale=nl_NL">TheGuardiansTheBand</a>
-      - name: Instagram
+  - name: Instagram
     role: <a href="https://www.instagram.com/theguardianstheband/">TheGuardiansTheBand</a>
 
 ---
