@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include bedankt.html %}
+{% include programma.html %}
 
 ---
 
@@ -10,12 +10,7 @@ layout: default
 
 ---
 
-{% include programma.html %}
-
----
-
 {% include intro.html %}
-
 
 ---
 
