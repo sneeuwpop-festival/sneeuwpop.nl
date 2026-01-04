@@ -4,7 +4,7 @@
       type: image/webp
     - src: linneweever.png
       type: image/png
-  - link: https://www.weboma.nl/
+- link: https://www.weboma.nl/
   img:
     - src: weboma.png
       type: image/png
