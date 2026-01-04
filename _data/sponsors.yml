@@ -113,10 +113,4 @@
     - src: makro.webp
       type: image/webp
     - src: makro.png
-      type: image/png      
-- link: http://www.peterboeters.nl/
-  img:
-    - src: peterboeters.webp
-      type: image/webp
-    - src: peterboeters.png
       type: image/png
