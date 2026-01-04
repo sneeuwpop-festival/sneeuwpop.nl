@@ -1,14 +1,16 @@
-- link: https://www.scrumpy.nl/
+- link: https://linneweever.nl/
   img:
-    - src: scrumpy.webp
+    - src: linneweever.webp
       type: image/webp
-    - src: scrumpy.jpg
-      type: image/jpeg
-- link: https://www.biobestgroup.nl/
+    - src: linneweever.png
+      type: image/png
+  - link: https://www.weboma.nl/
   img:
-    - src: biobest.webp
-      type: image/webp
-    - src: biobest.png
+    - src: weboma.gif
+      type: image/gif
+- link: https://vanderzandenservice.nl/
+  img:
+    - src: vanderzanden_service.png
       type: image/png
 - link: https://brochvolkering.nl/
   img:
@@ -16,13 +18,41 @@
       type: image/webp
     - src: brochvolkering.png
       type: image/png
+- link: https://www.autogrootscholten.nl/
+  img:
+    - src: autogrootscholten.png
+      type: image/png
+- link: https://www.facebook.com/RembrandtPub/?locale=nl_NL
+  img:
+    - src: rembrandtpub.png
+      type: image/png
+- link: mailto:info@mvandenbergelektrotechniek.nl
+  img:
+    - src: mvdberg_spandoek.png
+      type: image.png
 - link: http://www.rvdhorst.nl/
   img:
     - src: rvdhorst.gif
       type: image/gif
-- link: https://www.alblasinterntransport.nl/
+- link: http://www.leobol.com/
   img:
-    - src: alblas_intern_transport.png
+    - src: leobol.webp
+      type: image/webp
+    - src: leobol.png
+      type: image/png
+- link: https://www.teunissentimmerwerken.nl/
+  img:
+    - src: teunissentimmerwerken.png
+      type: image/png
+- link: https://www.biobestgroup.nl/
+  img:
+    - src: biobest.webp
+      type: image/webp
+    - src: biobest.png
+      type: image/png
+- link: http://www.frankvijverberg-timmerbedrijf.nl/Home/
+  img:
+    - src: frankvijverbergtimmerbedrijf.png
       type: image/png
 - link: https://www.verbakel.com/
   img:
@@ -30,105 +60,63 @@
       type: image/webp
     - src: verbakel.png
       type: image/png
-- link: https://tibodesign.nl/
+- link: https://www.scrumpy.nl/
   img:
-    - src: tibo.jpg
-      type: image/jpg
-- link: http://www.leobol.com/
-  img:
-    - src: leobol.webp
+    - src: scrumpy.webp
       type: image/webp
-    - src: leobol.png
-      type: image/png
-- link: https://www.rebbouw.nl/
+    - src: scrumpy.jpg
+      type: image/jpeg
+- link: https://www.bouwbedrijfjongerius.nl/
   img:
-    - src: rebbouw.png
+    - src: jongerius.png
       type: image/png
+- link: http://molenaarservice.nl/
+  img:
+    - src: molenaar.svg
+      type: image/svg+xml
 - link: http://hekatec.nl/
   img:
     - src: hekatec.webp
       type: image/webp
     - src: hekatec.png
       type: image/png
-- link: https://stijlplus.nl/
+- link: https://tibodesign.nl/
   img:
-    - src: stijlplus.webp
-      type: image/webp
-    - src: stijlplus.png
-      type: image/png
-- link: http://www.presscon.nl/
+    - src: tibo.jpg
+      type: image/jpg
+- link: https://nederlanddrie.nl/
   img:
-    - src: Presscon.png
+    - src: nederland_3_logo.png
       type: image/png
-- link: https://www.suzukikeesbalvert.nl/
+- link: https://www.rebbouw.nl/
   img:
-    - src: suzuki_kees_balvert.png
+    - src: rebbouw.png
       type: image/png
+- link: https://deuithof.nl/
+  img:
+    - src: uithof.jpg
+      type: image/jpg
+- link: http://www.velo.nl/
+  img:
+    - src: velo.gif
+      type: image/gif
+- link: https://www.alblasinterntransport.nl/
+  img:
+    - src: alblasinterntransport.gif
+      type: image/gif
 - link: http://www.dshsecurity.com/nl/home.html
   img:
     - src: dsh_security.jfif
       type: image/jfif
-- link: http://molenaarservice.nl/
-  img:
-    - src: molenaar.svg
-      type: image/svg+xml
 - link: https://www.makro.nl/
   img:
     - src: makro.webp
       type: image/webp
     - src: makro.png
-      type: image/png
-- link: https://roodenrijs.meesterbakker.nl/
-  img:
-    - src: roodenrijs_remmerswaal.png
-      type: image/png
-- link: http://www.velo.nl/
-  img:
-    - src: velo.gif
-      type: image/gif
-- link: https://www.betonverbraeken.nl/
-  img:
-    - src: betonverbraeken.webp
-      type: image/webp
-    - src: betonverbraeken.jpg
-      type: image/jpg
+      type: image/png      
 - link: http://www.peterboeters.nl/
   img:
     - src: peterboeters.webp
       type: image/webp
     - src: peterboeters.png
       type: image/png
-- link: https://www.aviboor.nl/
-  img:
-    - src: aviboor_avisloop.png
-      type: image/png
-- link: http://www.bouwbedrijfjongerius.nl/
-  img:
-    - src: jongerius.svg
-      type: image/svg+xml
-- link: https://deuithof.nl/
-  img:
-    - src: uithof.jpg
-      type: image/jpg
-- link: https://linneweever.nl/
-  img:
-    - src: linneweever.webp
-      type: image/webp
-    - src: linneweever.png
-      type: image/png
-- link: https://nederlanddrie.nl/
-  img:
-    - src: nederland_3_logo.png
-      type: image/png
-- link: https://vanderzandenservice.nl/
-  img:
-    - src: vanderzanden_service.png
-      type: image/png
-- link: http://www.frankvijverberg-timmerbedrijf.nl/Home/
-  img:
-    - src: frankvijverbergtimmerbedrijf.png
-      type: image/png
-- link: mailto:info@mvandenbergelektrotechniek.nl
-  img:
-    - src: mvdberg_spandoek.png
-      type: image.png
