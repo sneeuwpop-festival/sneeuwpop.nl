@@ -102,8 +102,8 @@
       type: image/gif
 - link: https://www.alblasinterntransport.nl/
   img:
-    - src: alblasinterntransport.gif
-      type: image/gif
+    - src: alblasinterntransport.png
+      type: image/png
 - link: https://dshsecurity.com/
   img:
     - src: dsh_security.jfif
