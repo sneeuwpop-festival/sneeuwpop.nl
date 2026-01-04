@@ -6,8 +6,8 @@
       type: image/png
   - link: https://www.weboma.nl/
   img:
-    - src: weboma.gif
-      type: image/gif
+    - src: weboma.png
+      type: image/png
 - link: https://vanderzandenservice.nl/
   img:
     - src: vanderzanden_service.png
@@ -20,12 +20,12 @@
       type: image/png
 - link: https://www.autogrootscholten.nl/
   img:
-    - src: autogrootscholten.png
-      type: image/png
+    - src: autogrootscholten.webp
+      type: image/webp
 - link: https://www.facebook.com/RembrandtPub/?locale=nl_NL
   img:
-    - src: rembrandtpub.png
-      type: image/png
+    - src: rembrandtpub.jpg
+      type: image/jpg
 - link: mailto:info@mvandenbergelektrotechniek.nl
   img:
     - src: mvdberg_spandoek.png
@@ -68,8 +68,8 @@
       type: image/jpeg
 - link: https://www.bouwbedrijfjongerius.nl/
   img:
-    - src: jongerius.png
-      type: image/png
+    - src: jongerius.svg
+      type: image/svg
 - link: http://molenaarservice.nl/
   img:
     - src: molenaar.svg
