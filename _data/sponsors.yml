@@ -50,7 +50,7 @@
       type: image/webp
     - src: biobest.png
       type: image/png
-- link: http://www.frankvijverberg-timmerbedrijf.nl/Home/
+- link: https://www.frankvijverberg-timmerbedrijf.nl/
   img:
     - src: frankvijverbergtimmerbedrijf.png
       type: image/png
@@ -104,7 +104,7 @@
   img:
     - src: alblasinterntransport.gif
       type: image/gif
-- link: http://www.dshsecurity.com/nl/home.html
+- link: https://dshsecurity.com/
   img:
     - src: dsh_security.jfif
       type: image/jfif
