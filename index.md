@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% include vrijwilligers.html %}
+
+---
+
 {% include programma.html %}
 
 ---
