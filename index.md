@@ -1,8 +1,5 @@
 ---
 layout: default
----
-
-{% include vrijwilligers.html %}
 
 ---
 
