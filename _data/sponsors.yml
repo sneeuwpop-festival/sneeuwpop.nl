@@ -110,3 +110,7 @@
       type: image/webp
     - src: makro.png
       type: image/png
+- link: https://www.bouwbedrijfjongerius.nl/
+  img:
+    - src: jongerius.svg
+      type: image/svg
