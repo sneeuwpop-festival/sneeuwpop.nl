@@ -3,11 +3,15 @@ layout: default
 
 ---
 
-{% include programma.html %}
+{% include bedankt.html %}
 
 ---
 
 {% include sponsors.html %}
+
+---
+
+{% include programma.html %}
 
 ---
 
