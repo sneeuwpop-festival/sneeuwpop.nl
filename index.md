@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-{% include programma.html %}
+{% include programmakomt.html %}
 
 ---
 
