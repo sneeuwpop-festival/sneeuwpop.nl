@@ -7,11 +7,11 @@ layout: default
 
 ---
 
-{% include sponsors.html %}
+{% include intro.html %}
 
 ---
 
-{% include intro.html %}
+{% include sponsors.html %}
 
 ---
 
